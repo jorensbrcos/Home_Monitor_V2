@@ -1,1 +1,0 @@
-Base MAC ADDRESS = 7C:9E:BD:F5:44:EC
